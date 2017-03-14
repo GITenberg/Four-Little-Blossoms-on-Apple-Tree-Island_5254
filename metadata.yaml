@@ -1,11 +1,16 @@
 _repo: Four-Little-Blossoms-on-Apple-Tree-Island_5254
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hawley, Mabel C.
     gutenberg_agent_id: '1751'
     url: http://www.gutenberg.org/2009/agents/1751
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5254#Four-Little-Blossoms-on-Apple-Tree-Island
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
