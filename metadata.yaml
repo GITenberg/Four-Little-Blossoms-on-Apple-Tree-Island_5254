@@ -1,5 +1,5 @@
 _repo: Four-Little-Blossoms-on-Apple-Tree-Island_5254
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcsh 'Families -- Juvenile fiction'
 - !lcc 'PZ'
 - !lcsh 'Brothers and sisters -- Juvenile fiction'
+- GITenberg
 title: Four Little Blossoms on Apple Tree Island
 url: http://www.gutenberg.org/ebooks/5254
